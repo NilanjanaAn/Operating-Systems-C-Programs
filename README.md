@@ -8,7 +8,7 @@ Programs in C illustrating the various algorithms associated with Operating Syst
 - Process Scheduling Algorithms
     - First Come First Served (FCFS)
     - Shortest Job First (SJF)
-    - Shortest Remaining Time First (SRTF / Preempptive SJF)
+    - Shortest Remaining Time First (SRTF / Preemptive SJF)
     - Highest Response Ratio Next (HRRN)
     - Priority (Non-Preemptive)
     - Priority (Preemptive)
